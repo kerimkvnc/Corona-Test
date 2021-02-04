@@ -15,10 +15,9 @@ while True:
     test = input("Q:")
     if test == "Q" or test == "q":
        print("TEST KAPANIYOR...")
-       break
     else:
       start()
-      break 
+    break 
 
 ates = input("ATEŞ SIKLIĞI:")
 yorgunluk = input("YORGUNLUK SIKLIĞI:")
